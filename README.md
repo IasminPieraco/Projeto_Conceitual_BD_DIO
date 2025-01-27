@@ -1,6 +1,6 @@
 # Desafio Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 - **Aluna: Iasmin Pieraço Rodrigues**
-- **Instrutora:Juliana Mascarenhas**
+- **Instrutora: Juliana Mascarenhas**
 
 # Tecnologias
 - [x] Navegador Brave
